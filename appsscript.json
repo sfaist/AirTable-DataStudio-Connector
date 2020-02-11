@@ -1,0 +1,11 @@
+{
+  "dataStudio": {
+    "name": "AirTable Easy Connect",
+    "company": "Stefan Faistenauer",
+    "logoUrl": "https://avatars.slack-edge.com/2017-03-28/161777210502_7ed3749da22b2ee255b2_512.png",
+    "companyUrl": "http://stevo.at/",
+    "addonUrl": "https://github.com/sfaist/AirTable-DataStudio-Connector",
+    "supportUrl": "https://github.com/sfaist/AirTable-DataStudio-Connector/issues",
+    "description": "Direct Connector for Airtable"
+  }
+}
